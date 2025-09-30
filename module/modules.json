@@ -9,7 +9,7 @@
         "entry_file": "AdminModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/admin\/icon.png"
+        "icon": ""
     },
     "content": {
         "key": "content",
@@ -21,7 +21,7 @@
         "entry_file": "ContentModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/content\/icon.png"
+        "icon": "📄"
     },
     "custom-module": {
         "key": "custom-module",
@@ -33,7 +33,7 @@
         "entry_file": "Custom-moduleModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/custom-module\/icon.png"
+        "icon": "h"
     },
     "database": {
         "key": "database",
@@ -45,7 +45,7 @@
         "entry_file": "DatabaseModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/database\/icon.png"
+        "icon": ""
     },
     "dns": {
         "key": "dns",
@@ -57,7 +57,7 @@
         "entry_file": "DnsModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/dns\/icon.png"
+        "icon": "🌐"
     },
     "email": {
         "key": "email",
@@ -69,7 +69,7 @@
         "entry_file": "EmailModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/email\/icon.png"
+        "icon": "📧"
     },
     "endpoints": {
         "key": "endpoints",
@@ -81,7 +81,7 @@
         "entry_file": "EndpointsModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/endpoints\/icon.png"
+        "icon": "🔌"
     },
     "file-editor": {
         "key": "file-editor",
@@ -93,7 +93,7 @@
         "entry_file": "File-editorModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/file-editor\/icon.png"
+        "icon": "📝"
     },
     "ispconfig": {
         "key": "ispconfig",
@@ -105,19 +105,7 @@
         "entry_file": "IspconfigModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/ispconfig\/icon.png"
-    },
-    "lang": {
-        "key": "lang",
-        "name": "Lang Modul",
-        "description": "Beschreibung f\u00fcr das lang Modul",
-        "version": "1.0.0",
-        "download": "https:\/\/github.com\/teris\/SMF-Module\/archive\/refs\/heads\/main.zip",
-        "path_in_archive": "SMF-Module-main\/module\/lang",
-        "entry_file": "LangModule.php",
-        "dependencies": [],
-        "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/lang\/icon.png"
+        "icon": "🌐"
     },
     "migration": {
         "key": "migration",
@@ -129,7 +117,7 @@
         "entry_file": "MigrationModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/migration\/icon.png"
+        "icon": "💱"
     },
     "network": {
         "key": "network",
@@ -141,7 +129,7 @@
         "entry_file": "NetworkModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/network\/icon.png"
+        "icon": "🔧"
     },
     "ovh": {
         "key": "ovh",
@@ -153,7 +141,7 @@
         "entry_file": "OvhModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/ovh\/icon.png"
+        "icon": "🔗"
     },
     "proxmox": {
         "key": "proxmox",
@@ -165,7 +153,7 @@
         "entry_file": "ProxmoxModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/proxmox\/icon.png"
+        "icon": "🖥️"
     },
     "shop": {
         "key": "shop",
@@ -177,7 +165,7 @@
         "entry_file": "ShopModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/shop\/icon.png"
+        "icon": "🛒"
     },
     "support-tickets": {
         "key": "support-tickets",
@@ -189,7 +177,7 @@
         "entry_file": "Support-ticketsModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/support-tickets\/icon.png"
+        "icon": "🎫"
     },
     "terminal": {
         "key": "terminal",
@@ -201,7 +189,7 @@
         "entry_file": "TerminalModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/terminal\/icon.png"
+        "icon": "🔳"
     },
     "virtual-mac": {
         "key": "virtual-mac",
@@ -213,6 +201,6 @@
         "entry_file": "Virtual-macModule.php",
         "dependencies": [],
         "min_php": "8.0",
-        "icon": "https:\/\/raw.githubusercontent.com\/teris\/SMF-Module\/main\/module\/virtual-mac\/icon.png"
+        "icon": ""
     }
 }
