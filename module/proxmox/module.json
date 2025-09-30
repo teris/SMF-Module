@@ -1,0 +1,9 @@
+{
+    "name": "Proxmox Modul",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "Proxmox VE Server-Verwaltung",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "💻"
+}

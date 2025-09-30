@@ -1,0 +1,9 @@
+{
+    "name": "Support Tickets",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "Ticket-System für Support-Anfragen",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "🎫"
+}

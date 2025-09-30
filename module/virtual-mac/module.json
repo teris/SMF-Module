@@ -1,0 +1,9 @@
+{
+    "name": "Virtual MAC",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "Virtuelle MAC-Adressen Verwaltung",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "🔐"
+}

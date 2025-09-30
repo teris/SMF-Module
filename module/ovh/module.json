@@ -1,0 +1,9 @@
+{
+    "name": "OVH Modul",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "OVH API-Integration",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "☁️"
+}

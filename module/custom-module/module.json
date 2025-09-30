@@ -1,0 +1,9 @@
+{
+    "name": "Custom Module",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "Beispiel für ein benutzerdefiniertes Modul",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "🔧"
+}

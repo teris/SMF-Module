@@ -1,0 +1,9 @@
+{
+    "name": "Email Modul",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "E-Mail-Verwaltung und Template-Editor",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "📧"
+}

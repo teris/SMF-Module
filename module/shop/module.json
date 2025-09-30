@@ -1,0 +1,9 @@
+{
+    "name": "Shop Modul",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "E-Commerce und Shop-System",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "🛒"
+}

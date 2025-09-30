@@ -1,0 +1,9 @@
+{
+    "name": "File Editor",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "Dateien direkt im Browser bearbeiten",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "📄"
+}

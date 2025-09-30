@@ -1,0 +1,9 @@
+{
+    "name": "Endpoints Modul",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "API-Endpunkt Verwaltung und Monitoring",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "🔌"
+}

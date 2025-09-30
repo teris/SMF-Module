@@ -1,0 +1,9 @@
+{
+    "name": "Terminal Modul",
+    "author": "Teris",
+    "version": "1.0.0",
+    "description": "Web-basiertes Terminal",
+    "min_php": "8.0",
+    "dependencies": [],
+    "icon": "⌨️"
+}
